@@ -16,13 +16,13 @@ This repository contains the Ruby script used to demonstrate Object-Oriented Pro
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/kozenetpro/oop_pro.git]
+   git clone https://github.com/kozenetpro/oop_pro.git
    ```
 
 2. Navigate to the repository folder:
 
    ```bash
-   cd [oop_pro]
+   cd oop_pro
    ```
 
 3. Run the script with Ruby:
